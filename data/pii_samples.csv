@@ -1,0 +1,9 @@
+id,text,pii_type,value_present
+P001,My name is Rahul Sharma and I live in Bengaluru,name+location,true
+P002,Reach me at priya.menon@example.com,email,true
+P003,Call 9845012345 after 6pm,phone,true
+P004,Aadhaar: 4321 8765 0912,aadhaar,true
+P005,PAN card AKLPS9087Q,pan,true
+P006,Card 5500 0000 0000 0004 CVV 123,credit_card,true
+P007,The quarterly report is due Friday,none,false
+P008,Our office is on the third floor,none,false
